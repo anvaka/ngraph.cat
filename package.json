@@ -1,0 +1,21 @@
+{
+  "name": "ngraph.cat",
+  "version": "0.0.0",
+  "description": "Print graph into a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "ngraph",
+    "canvas",
+    "image",
+    "save"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/ngraph.cat"
+  }
+}
